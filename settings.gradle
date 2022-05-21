@@ -1,0 +1,6 @@
+rootProject.name = 'OnJava8-MyNotes'
+include 'annotations'
+include 'annotations-processor'
+include 'fork-join'
+include 'demo'
+

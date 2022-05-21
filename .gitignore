@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/annotations/build/
+/annotations/build/classes/java/main/
+/annotations-processor/build/
+/annotations-processor/build/classes/java/main/
+/build/
+/demo/build/
+/demo/build/classes/java/main/
