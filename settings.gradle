@@ -3,4 +3,6 @@ include 'annotations'
 include 'annotations-processor'
 include 'fork-join'
 include 'demo'
+include 'rxjava:rxjava'
+findProject(':rxjava:rxjava')?.name = 'rxjava'
 
